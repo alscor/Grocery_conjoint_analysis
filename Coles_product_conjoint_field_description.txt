@@ -1,0 +1,36 @@
+Field	Description			
+Response ID	Unique identifier			
+vers_CBCONJOINT	"Conjoint Version (product-specific, used to derice the price level within each product)"			
+Panel	"Conjoint panel ID, values 1 to 6"			
+Choice Option	"Choice option within a panel, values 1 to 3"			
+Incomplete panel	"Indicator, 1 - incomplete panel (discard), 0 - complete panel (use for the analysis)"			
+Choice selected	Code that points to which panel was selected			
+Product quality	Levels of product quality:	Not aligned to my choices	Somewhat aligned to my choices	Highly aligned to my choices
+Product brand	Levels of brand:	Leading brand I’m not familiar with	Supermarket own branded product	Leading brand I’m familiar with
+Environmental	Levels of environmental attributes			
+"Social, ethical and community"	Levels of social attributes			
+Governance (company management)	Levels of governance attributes			
+Choice	"Indicator, 1 - choice was selected, 0 - not selected"			
+Will you buy Y/N	"Indicator, 1 - will you buy y/n was selected, 0 - not selected"			
+Will you buy	"Indicator, 1 - will you buy was selected, 0 - not selected"			
+Price Level	"Price level - 1 to 7, which indicates 40,60,80,100,120,140,160% of the anchor price"			
+Price	Price of the choice option			
+Overall	Segment - Overall (all records)			
+Gender	Segment - Gender			
+Age Group	Segment - Age Group			
+Income	Segment - Income			
+Employment	Segment - Employment			
+Main supermarket	Segment - Main supermarket (Coles / Woolworths / Aldi / Other)			
+HH Size	Segment - Household size			
+Grocery online	Segment - Buy groceries online			
+Audience	Segment - Audience type (Dynata vs. Coles Circle)			
+Inflation-buy 10pct higher	Indicator - 1- will keep the choice (non-switcher); 0 - will not keep the choice (switcher).			
+Rural postcode	"1 - Rural postal code, 0 - non-rural"			
+Postcode category	Postcode category - Metro / Regional / Remote / Missing / Blank			
+ATD Brand attitude	Attitudinal Brand: Name Brand is better / Neither / Store Brand is better			
+ATD Cooking habits	Attitudinal Cooking: From scratch / Neither / Prepackaged			
+ATD Host or guest	Attitudinal Host: Prefer to be host / Neither / Prefer to be guest			
+ATD Shopping enjoyment	Attitudinal Shopping: Shopping - Chore / Neither / Shopping - Pleasure			
+Ethnicity	Attitudinal Ethnicity: From scretch / Neither / Prepackaged			
+Education	Educational level			
+Product	Product category (9 categories)			
